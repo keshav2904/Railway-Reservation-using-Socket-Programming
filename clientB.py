@@ -1,4 +1,4 @@
-#python tcp client A
+#python tcp client B
 import menu
 import socket
 
